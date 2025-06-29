@@ -130,7 +130,7 @@ function CheckFW() {
       });
     }
 
-    document.title = "دوس اكس لتفعيل سوفت | " + fwVersion
+    document.title = "اليكس جيمر لتفعيل سوفت | " + fwVersion
   } else {
     let platform = 'Unknown platform';
 
